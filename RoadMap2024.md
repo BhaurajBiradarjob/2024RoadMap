@@ -9,7 +9,7 @@ NodeJS
 TypeScript
 
 #################### AWS ######################################
-
+AWS Basics
 Linux
 Shell Scripting
 Bash
@@ -63,7 +63,26 @@ AWS Direct Connect,
 AWS cloud Map,
 AWS App Mesh
 #################### Azure ######################################
+Azure Basics
 Azure DevOps
+Artifacts
+Pipelines
 YAML
 
 #################### Azure Services ######################################
+VM
+Spot VM
+VM Scale Set
+App Services
+Azure Function Services
+Azure Service Fabric
+Azure Logic Apps
+Azure AD
+PostGre SQL
+Azure APIM
+Azure Cosmos DB
+Event Grid
+Notification Hubs
+Azure Mobile App
+
+################# AWS and Azure Data Factory #################
