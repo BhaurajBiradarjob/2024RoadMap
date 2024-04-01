@@ -34,6 +34,9 @@ Compute Services ->
 			AWS Elastic Beanstalk, 
 			AWS Fargate, 
 			AWS Lambda
+
+
+   
 Storage Services -> 
 			S3 (Simple Storage Services),
 			EBS(Elastic Block Store),
@@ -44,6 +47,9 @@ Storage Services ->
 			AWS Data Sync,
 			AWS Transfer Family,
 			AWS Snow Family,
+
+
+   
 Database Services ->
 			Amazon RDS (Relational Database Services),
 			Amazon Redshift,
@@ -53,6 +59,8 @@ Database Services ->
 			Amazon Keyspaces,
 			Amazon Neptune,
 			Qunatum Ledger Database(QLDB)
+
+   
 Network Services ->
 			Virtual Private Cloud(VPC),
 			Amazon API Gateway,
