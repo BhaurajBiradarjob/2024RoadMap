@@ -1,3 +1,29 @@
+#################### Azure Services ######################################
+VM
+Spot VM
+VM Scale Set
+App Services
+Azure Function Services
+Azure Service Fabric
+Azure Logic Apps
+Azure AD
+PostGre SQL
+Azure APIM
+Azure Cosmos DB
+Event Grid
+Notification Hubs
+Azure Mobile App
+
+#################### Azure ######################################
+Azure Basics
+Azure DevOps
+Artifacts
+Pipelines
+YAML
+
+################# IaC ###################################
+Terraform for both AWS and Azure
+
 #################### React ####################################
 HTML
 CSS
@@ -62,27 +88,12 @@ Virtual Private Network(VPN),
 AWS Direct Connect,
 AWS cloud Map,
 AWS App Mesh
-#################### Azure ######################################
-Azure Basics
-Azure DevOps
-Artifacts
-Pipelines
-YAML
-
-#################### Azure Services ######################################
-VM
-Spot VM
-VM Scale Set
-App Services
-Azure Function Services
-Azure Service Fabric
-Azure Logic Apps
-Azure AD
-PostGre SQL
-Azure APIM
-Azure Cosmos DB
-Event Grid
-Notification Hubs
-Azure Mobile App
 
 ################# AWS and Azure Data Factory #################
+
+################# Certification ##############
+HashiCorp terraform certification
+Az-305 and Az-400
+AWS Certified SysOps Administrator – Associate
+Associate Level: AWS Certified Developer – Associate
+AWS Certified Solutions Architect – Associate
